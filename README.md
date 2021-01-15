@@ -1,7 +1,7 @@
 ### Tim McDonald
 
 Hello, my name is Tim McDonald and I am a Full Stack Developer open to full-time employment opportunities.
-I enjoy creating video games that can be played in the browser, with a special love for:
+I enjoy creating web games that can be played in the browser, with a special love for:
 
 - Incremental Games ⬆️
 - Social Games 💬
