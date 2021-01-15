@@ -8,4 +8,6 @@ I enjoy creating web games that can be played in the browser, with a special lov
 - Collaborative Games 🤝
 - and Virtual Worlds 🌐
 
-I am comfortable with both Front-end and Back-end and like to create applications that tell stories 📜
+I am comfortable with both Front-end and Back-end and like to create applications that tell stories 📜  
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/tim-d-mcdonald/)  
